@@ -2,7 +2,7 @@
 
 On this project, I used Automobile company data to segment it customers. The first step was to prepare the data and then  perform an EDA to better understand Autoshop customers, in general. I used Python to clean and do the EDA, and I also create a dashboard using Microsoft Power BI, where you can download and play a little bit with it.
 
-![](images/_customer_segmentation_EDA.png)
+![_customer_segmentation_EDA](https://user-images.githubusercontent.com/95477212/154995350-8e4be455-a42e-4253-975d-4a4c31e795ea.png)
 
 For the model I choosed an unsupervised machine learning model(KMeans) to create cluster the customers.I also used Python for this step. Five groups were found after the cluster, each group has the most predominant characteristics of the customers for each variable. Based on that the company can identify the type of customers they have,and the business sector can develop strategies to attract more customers or to develop specific products for each group of customers.
 
